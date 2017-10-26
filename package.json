@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-mariana",
+  "version": "1.0.0",
+  "description": "a mariana airbnb override",
+  "main": "index.js",
+  "repository": "https://github.com/Mariana-Tek/eslint-config-mariana",
+  "private": true,
+  "peerDependencies": {
+    "eslint": "^4.7.2",
+    "eslint-config-airbnb-base": "^11.3.2"
+  }
+}
