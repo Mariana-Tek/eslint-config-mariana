@@ -4,4 +4,4 @@
 
 ## installation
 
-`yarn add git@github.com:Mariana-Tek/eslint-config-mariana.git eslint-config-airbnb-base`
+`npm install git@github.com:Mariana-Tek/eslint-config-mariana.git eslint-config-airbnb-base`
