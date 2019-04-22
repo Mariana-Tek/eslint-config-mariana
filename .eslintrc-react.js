@@ -1,7 +1,8 @@
 
 module.exports = {
     "extends": [
-        "airbnb-base",
+        "./.eslintrc.js",
+        "airbnb",
         "plugin:react/recommended"
     ],
     "globals": {
