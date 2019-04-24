@@ -1,9 +1,8 @@
-
 module.exports = {
     "extends": [
-        "./.eslintrc.js",
         "airbnb",
-        "plugin:react/recommended"
+        "plugin:react/recommended",
+        "./.eslintrc.js",
     ],
     "globals": {
         "window": true,
