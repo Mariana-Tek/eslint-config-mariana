@@ -10,7 +10,8 @@ module.exports = {
     },
     "parser": "babel-eslint",
     "plugins": [
-        "react"
+        "jsx-a11y",
+        "react",
     ],
     "rules": {
         "jsx-a11y/anchor-is-valid": 0,
