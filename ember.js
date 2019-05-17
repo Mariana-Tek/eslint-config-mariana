@@ -1,12 +1,12 @@
 module.exports = {
-    "extends": [
-        "airbnb-base",
-        "./.eslintrc.js"
+    'extends': [
+        'airbnb-base',
+        './.eslintrc-base.js',
     ],
-    "plugins": [
-        "ember"
+    'plugins': [
+        'ember',
     ],
-    "rules": {
+    'rules': {
         // required for browser
         'compat/compat': [2],
 
@@ -21,6 +21,6 @@ module.exports = {
         'ember/order-in-components': 'error',
         'ember/order-in-controllers': 'error',
         'ember/order-in-routes': 'error',
-        'ember/use-ember-get-and-set': 'error'
-    }
+        'ember/use-ember-get-and-set': 'error',
+    },
 };

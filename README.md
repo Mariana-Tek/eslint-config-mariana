@@ -5,4 +5,23 @@
 ## installation
 
 - `npm install git@github.com:Mariana-Tek/eslint-config-mariana.git`
-- `npx install-peerdeps --dev eslint-config-mariana`
+
+## Usage
+
+We currently have two sets of eslint rules to choose from, Ember and React. To use them, you just need to extend the one that makes sense for your project:
+
+### Ember
+
+```json
+"extends": [
+    "eslint-config-mariana/ember"
+],
+```
+
+### React
+
+```json
+"extends": [
+    "eslint-config-mariana/react"
+],
+```

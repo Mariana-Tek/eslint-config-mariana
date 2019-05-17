@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/Mariana-Tek/eslint-config-mariana",
   "private": true,
-  "peerDependencies": {
+  "dependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-airbnb-base": "^13.1.0",
