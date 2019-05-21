@@ -4,7 +4,7 @@ module.exports = {
         './.eslintrc-base.js',
     ],
     'globals': {
-        'window': true,
+        "node": true,
     },
-    'parser': 'babel-eslint'
+    'parser': 'babel-eslint',
 };
