@@ -4,7 +4,7 @@
 
 ## installation
 
-- `npm install git@github.com:Mariana-Tek/eslint-config-mariana.git`
+- `npm install git+ssh://git@github.com/Mariana-Tek/eslint-config-mariana.git`
 
 ## Usage
 
