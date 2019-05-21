@@ -3,7 +3,7 @@ module.exports = {
         'airbnb-base',
         './.eslintrc-base.js',
     ],
-    'globals': {
+    'env': {
         "node": true,
     },
     'parser': 'babel-eslint',
