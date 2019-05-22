@@ -4,6 +4,9 @@ module.exports = {
         'plugin:react/recommended',
         './.eslintrc-base.js',
     ],
+    "env": {
+        "browser": true
+    },
     'globals': {
         'window': true,
         'React': true,
